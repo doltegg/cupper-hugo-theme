@@ -9,7 +9,7 @@ min_version = "0.54.0"
 
 [author]
   name = "Zachary Betz"
-  homepage = "https://zwbetz.com/"
+  homepage = "https://doltegg.github.io/cupper-hugo-theme/"
 
 [original]
   name = "Cupper"
