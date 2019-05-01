@@ -1,4 +1,4 @@
-baseURL = "https://doltegg.github.io"
+baseURL = "https://doltegg.github.io/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Cupper"
